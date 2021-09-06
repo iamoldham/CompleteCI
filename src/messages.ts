@@ -1,3 +1,3 @@
 export function generateMessage() {
-  return "Hello Dare Olufowobi";
+  return "Hello Dare";
 }
